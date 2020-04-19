@@ -19,7 +19,7 @@ namespace Ch16_3_2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Press Button";
+            label1.Text = "Press Button -v2.0";
         }
     }
 }
